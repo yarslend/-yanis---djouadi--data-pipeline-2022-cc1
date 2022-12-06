@@ -1,0 +1,4 @@
+resource "aws_key_pair" "yanis-arslen-djouadi-key" {
+ key_name = "yanis-arslen-djouadi-key"
+ public_key= "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCu8v4MHp4rwbRr67q7UEE7+nqRCcLUKPTe9ko3QKQmizjy+rrGqCY0Fyvkuz+nv4l2HqS8v8mN2RUUBG730fqYiuq/ZRoiyW8DbtncODYNw6k7AEkF+LklsZJvXJpomiN8vWOtc3+YaHItb7FPa4Vg64d24TSpyPUeIx9q3kpjPeQ18mWJ72c5LVvQtQ6xq7wYiJH38JdFrsWCdkstcMhZQHzXhxUAC14UQTztk3BfS6Ziu911b0U3WXSzSm/BL3n7Vy7yKFptIb0eJfVJ5rl/G+MxGnQ4y8kAUUHaAgUZtakbOaaLdwnSkRx6hAh2OpuX6eoK5Hr9P5EO2pkTayGB"
+}
